@@ -110,3 +110,17 @@ section .main-body{
 }
 
 
+body {
+    padding-top: 56px; /* Adjust if the navbar height differs */
+}
+
+.top-section {
+    margin-top: 0; /* Reset margin if any exists */
+}
+
+/* For smaller screens (if navbar height changes with responsive design) */
+@media screen and (max-width: 991px) {
+    body {
+        padding-top: 70px; /* Example height for a taller mobile navbar */
+    }
+}
