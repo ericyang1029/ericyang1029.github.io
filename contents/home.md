@@ -1,16 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![ericyang1029](https://img.shields.io/badge/ericyang1029-github-blue?logo=github)](https://github.com/ericyang1029)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently a Master Student in Computer Science at [Rice University](https://www.rice.edu), Houston, TX. Prior to that, I obtained my bachelor’s degree in CS at the [University of Michigan](https://www.umich.edu).
 
 #### Email
-sli[at]cumt.edu.cn
+qy28[at]rice.edu
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+<!-- #### Education
+Master, Computer Science, Rice University, Houston, TX, 2024—2025 (expected).\
+B.S., Computer Scicence, University of Michigan, Ann Arbor, MI, 2020—2023. -->
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+My research lies in interpretable machine learning.
