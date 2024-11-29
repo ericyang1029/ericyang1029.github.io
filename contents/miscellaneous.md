@@ -1,1 +1,1 @@
-In my spare time, I love to play tennis, painting, and read books.
+In my spare time, I love to play tennis, paint, and read books.
