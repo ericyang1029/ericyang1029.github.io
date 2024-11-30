@@ -97,12 +97,17 @@ section .main-body{
     float: right;
     z-index: 9000;
 }
-
+/* 
 #avatar img {
     height: max(130px,min(200px,calc(100vw/6)));
     box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+} */
+#avatar img {
+    height: max(130px, min(200px, calc(100vw / 6)));
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 50%; /* This makes the image circular or oval */
+    object-fit: cover; /* Ensures the image content fits within the oval shape */
 }
-
 @media screen and (max-width: 991px) {
     #avatar {
         margin: 0;
