@@ -11,4 +11,4 @@ Master, Computer Science, Rice University, Houston, TX, 2024—2025 (expected).\
 B.S., Computer Scicence, University of Michigan, Ann Arbor, MI, 2020—2023. -->
 
 #### Research Interests
-My research interest lies in interpretable machine learning.
+My research interest lies in Interpretable Machine Learning and AI Safety
